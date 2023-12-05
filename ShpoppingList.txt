@@ -1,0 +1,18 @@
+The Total Cost of Item Id: 4d444464-ffb5-43b9-bff5-1e22ae20a2c2 with the Pepsi(s) and Quantity:10 with Unit Price : 200.00, has the Total Cost of 2000.00
+
+The Total Cost of Item Id: d2a4fc63-e136-415b-850a-5a691649a875 with the Coca-Cola(s) and Quantity:12 with Unit Price : 250.00, has the Total Cost of 3000.00
+
+====================
+Item Id is:  4f3cb13c-39fb-41e7-8729-a62e8980b51d
+Item Name is: Pepsi
+Item Quantity: 12
+Item Unit Price: 200
+Item Total Cost: 2400
+
+====================
+Item Id is:  152ea4e7-9288-4bfa-b7df-b030e2fd7753
+Item Name is: Coca-Cola
+Item Quantity: 250
+Item Unit Price: 300
+Item Total Cost: 67500
+
